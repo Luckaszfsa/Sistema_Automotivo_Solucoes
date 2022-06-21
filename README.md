@@ -31,9 +31,11 @@ Utilizamos o SQlite3 como banco de dados, iniciamos de uma forma, usando um arqu
 Durante o projeto alteramos por entendimento de outra forma mais eficaz na gestão do projeto, usando 2 arquivos.
 
 4. CRUDs iniciais
+
 Foi nosso primeiro contato com o CRUD e banco de dados, o que reforçou nossa experiência no projeto em nosso primeiro CRUD feito no desenvolvimento de sistemas.
 
 5. Estilização do Front-end
+
 Utilizamos o recurso do Canvas em algumas telas para usar as imagens, utilizamos estilizações de backgroung, foreground e efeitos Hover em diversas telas.
 Aprofundamos também a estilização do Treeview , conseguindo personalizá-lo.
 Tivemos algumas dificuldades no reposicionamento de elementos como botões por exemplo, mas aprendemos ao longo do projeto.
