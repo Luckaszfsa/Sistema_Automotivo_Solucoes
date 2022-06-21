@@ -25,9 +25,38 @@ Tela de Login
 
 ![img](https://imgur.com/cSOJQ9v.png)
 
-Menu Mecânico
+Menu Gerência
+![img](https://imgur.com/RcscUBe.png)
 
+Menu Mecânico
 ![img](https://imgur.com/ijz3N2h.png)
+
+Menu Recepção
+![img](https://imgur.com/gJ4arh9.png)
+
+Cadastro de Orçamentos
+![img](https://imgur.com/rV5olEG.png)
+
+Gerenciar Ordens Mecânico
+![img](https://imgur.com/YEcFlR6.png)
+
+Gerenciar Funcionários Gerente
+![img](https://imgur.com/A57kx0B.png)
+
+Gerenciar Ordens Gerente
+![img](https://imgur.com/rs009cL.png)
+
+Gerenciar Clientes Gerente
+![img](https://imgur.com/GDlN2xE.png)
+
+Cadastrar Clientes Recepção
+![img](https://imgur.com/jOCmfY8.png)
+
+Aprovar Orçamentos Recepção
+![img](https://imgur.com/aU2jSyg.png)
+
+
+
 
 
 
